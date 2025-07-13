@@ -35,5 +35,5 @@ pip install -r requirements.txt
 3. Run the script:
 python forecast.py
 
---- 📌 Author
+📌 Author
 Made by (Hamad Albaker) ha-hamad as part of my data science project portfolio.
